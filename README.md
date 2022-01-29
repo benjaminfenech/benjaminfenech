@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @benjaminfenech
 - 👀 I’m interested in web development and database technologies
 - 🌱 I’m currently learning Ruby on Rails
-- 📫 Reach me at benjaminfene.ch
+- 📫 Reach me at bfene.ch
 
 <!---
 benjaminfenech/benjaminfenech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
